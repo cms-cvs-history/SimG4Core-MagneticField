@@ -4,7 +4,7 @@
 <use name=FWCore/ParameterSet>
 <use name=FWCore/MessageLogger>
 <use name=DQMServices/Core>
-<use name=geant4>
+<use name=geant4core>
 <use name=boost>
 <use name=root>
 <flags EDM_PLUGIN=1>
